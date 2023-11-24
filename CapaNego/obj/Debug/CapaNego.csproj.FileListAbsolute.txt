@@ -1,0 +1,11 @@
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\bin\Debug\CapaNego.dll
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\bin\Debug\CapaNego.pdb
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\bin\Debug\CapaDatos.dll
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\bin\Debug\CapaEntidad.dll
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\bin\Debug\CapaDatos.pdb
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\bin\Debug\CapaEntidad.pdb
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\obj\Debug\CapaNego.csproj.AssemblyReference.cache
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\obj\Debug\CapaNego.csproj.CoreCompileInputs.cache
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\obj\Debug\CapaNego.csproj.CopyComplete
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\obj\Debug\CapaNego.dll
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaNego\obj\Debug\CapaNego.pdb

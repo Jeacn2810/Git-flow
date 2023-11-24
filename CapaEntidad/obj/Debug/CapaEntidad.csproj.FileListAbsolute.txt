@@ -1,0 +1,6 @@
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\jeacn\source\repos\patrones de diseño\patrones de diseño\ProyectoFinal\CapaEntidad\obj\Debug\CapaEntidad.pdb
