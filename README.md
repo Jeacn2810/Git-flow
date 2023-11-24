@@ -1,2 +1,2 @@
 # Git-flow
-esta parte es ya el proyecto completado listo para lanzarse 
+Parte donde se trabajo el proyecto con sus respectivas capas
