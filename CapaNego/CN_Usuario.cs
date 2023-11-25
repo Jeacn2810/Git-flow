@@ -47,7 +47,7 @@ namespace CapaNego
 
 
         }
-
+        // ESTA ES UNA PRUEBA 
 
         public bool Editar(Usuario obj, out string Mensaje)
         {
